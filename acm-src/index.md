@@ -1,3 +1,8 @@
+---
+layout: page
+title: Student Research Competition
+---
+
 # Student Research Competition
 
 <br>
@@ -6,28 +11,27 @@
 
 ##### Graduate Student Category
 
-- **1st Place:** Nurlan Nazaraliyev <br> 
-Project Title: "LOSS: Lightweight-OS-Support for GPUs" <br> 
-University of California, Riverside <br> 
+- **1st Place:** Nurlan Nazaraliyev <br>
+  Project Title: "LOSS: Lightweight-OS-Support for GPUs" <br>
+  University of California, Riverside <br>
 
-- **2nd Place:** Ravan Nazaraliyev <br> 
-Project Title: "Stealth within Security: Exploiting RFM Rowhammer Mitigation for GPU Attacks" <br> 
-University of California, Riverside <br> 
+- **2nd Place:** Ravan Nazaraliyev <br>
+  Project Title: "Stealth within Security: Exploiting RFM Rowhammer Mitigation for GPU Attacks" <br>
+  University of California, Riverside <br>
 
-- **3rd Place:** Nika Mansouri Ghiasi <br> 
-Project Title: "Understanding and Modeling the Performance Landscape of Ultra-Dense 3D Memory Systems" <br> 
-ETH Zurich <br>
-
+- **3rd Place:** Nika Mansouri Ghiasi <br>
+  Project Title: "Understanding and Modeling the Performance Landscape of Ultra-Dense 3D Memory Systems" <br>
+  ETH Zurich <br>
 
 ##### Undergraduate Student Category
 
-- **1st Place:** Sophia Fu <br> 
-Project Title: "Accelerating High-Precision Number Theoretic Transforms using Intel AVX-512" <br>
-Carnegie Mellon University <br> 
+- **1st Place:** Sophia Fu <br>
+  Project Title: "Accelerating High-Precision Number Theoretic Transforms using Intel AVX-512" <br>
+  Carnegie Mellon University <br>
 
 - **2nd Place:** Ishita Mehta <br>
-Project Title: "Evaluating Rowhammer Impact on Neural Network Accuracy" <br>
-University of Colorado Boulder <br>
+  Project Title: "Evaluating Rowhammer Impact on Neural Network Accuracy" <br>
+  University of Colorado Boulder <br>
 
 ## About
 
@@ -81,23 +85,19 @@ Submit your extended abstract at: [https://pact24src.hotcrp.com/](https://pact24
 
 ## Poster, Video, and Presentation Requirements
 
-
 ##### Poster Requirements
 
 - Organized and clear content
 - PDF submission by September 20, 2024
 - Print and bring your poster for presentation in-person
 
-
 ##### Final Presentation Requirements
 
 - Short 8-minute presentation, followed by a 4-minute Q&A (details will be announced later)
 
-
 ##### Virtual Presentations
 
 Details will be released closer to the conference.
-
 
 <br> <br> <br>
 
