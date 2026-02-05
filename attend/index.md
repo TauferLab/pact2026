@@ -1,74 +1,98 @@
 ---
-title: Attending PACT 2024
-description: Information for attending PACT 2024
+title: Attending PACT 2026
+description: Information for attending PACT 2026
 id: attend
 layout: page_sidebar
 show_sidebar: true
 ---
 
-# Attending PACT 2024
+## Attending PACT 2026
 
-What's on this page
+### Venue
 
-- [Venue](#venue)
-- [Registration](#registration)
-
+PACT 2026 will be held at the<br>
+<a href="https://illinicenter.illinois.edu/" target="_blank">Illini Center (University of Illinois)</a>
 <br>
+200 S. Wacker Drive, 19th Floor<br>
+Chicago, Illinois 60606 USA<br>
+Phone: +1 (312) 575-7800<br>
+Email: ICReception@illinois.edu
 
-## Venue
+The Illini Center is across the street from Union Station, two blocks from Ogilvie Transportation Center, and two blocks from the Quincy CTA (Brown Line) stop.
 
-PACT 2024 will be held at the <br>
+---
 
-[Hilton Long Beach](https://www.hilton.com/en/hotels/lgblhhf-hilton-long-beach/) <br>
-701 West Ocean Boulevard, <br>
-Long Beach, California 90831-3102 USA <br>
-Phone number: +1 562-983-3400 <br>
+### Getting to the Illini Center
 
-To book rooms at the venue, guests may call Hilton reservations at 1-800-445-8667 and reference group code 92X or use this [hotel reservation link](https://www.hilton.com/en/book/reservation/rooms/?ctyhocn=LGBLHHF&arrivalDate=2024-10-12&departureDate=2024-10-17&groupCode=92X&room1NumAdults=1&cid=OM%2CWW%2CHILTONLINK%2CEN%2CDirectLink).
-<br>
-**The last day for guest to make reservations is Friday, September 27, 2024.**
+#### Public transportation
 
-<br>
+The Center is convenient for attendees arriving via Union Station (Amtrak/Metra) or Ogilvie Transportation Center (Metra), and it is also close to CTA rail and bus service.
 
-## Registration
+#### Driving directions (downtown Chicago)
 
-Registration for PACT 2024 is now open.
+- **From the west:** Take I-290 (Eisenhower) east, exit at Wacker Drive, and follow signs for Wacker Drive.
+- **From the south:** Take I-90/94 toward downtown, exit near the Loop, and follow signs for Wacker Drive.
+- **From the north:** Take I-90/94 toward downtown, exit near the Loop, and follow signs for Wacker Drive.
 
-<a href="https://cvent.me/rgMYQZ" class="btn btn-primary btn-lg px-4 me-md-2">Register Now »</a>
+_(Tip: Use "Illini Center, 200 S. Wacker Drive, Chicago" in your navigation app.)_
 
-If you want to register both for the conference and the workshops/tutorials, first select
-the conference. On the following page it will then be possible to add the workshops/tutorials.
+---
 
-### Registration Rates
+### Venue parking
 
-Pricing and policy information is reproduced here for convenience, without guarantees of accuracy.
-**Early registration ends on September 23.**
-See [pricing via our registration vendor](https://web.cvent.com/event/b3dea94b-ee6e-4dbb-bc45-7e44c39553ca/websitePage:f5f1940b-980e-4398-96f6-3b681ef5e4a3) for authoritative information.
+Nearby parking options include:
 
-### Full Conference
+- Tower Self Park (entrance on Adams St. between Franklin and Wells)
+- 500 W Monroe Garage (entrance on Monroe St. between Clinton and Canal)
+- 322 W Van Buren Street Lot (entrance on Van Buren between Wacker and Franklin)
 
-| Registration Type           |     | Early-Bird |     | Regular  |
-| --------------------------- | --- | ---------- | --- | -------- |
-| ACM/IEEE Member             |     | $925.00    |     | $1000.00 |
-| Non-Member                  |     | $975.00    |     | $1100.00 |
-| Student Member              |     | $700.00    |     | $775.00  |
-| Student Non-Member          |     | $750.00    |     | $825.00  |
-| Additional Excursion Ticket |     | $200.00    |     | $200.00  |
+---
 
-<!-- <br> -->
+## Hotels
 
-### Tutorials/Workshops
+### Nearby hotels (close to the Illini Center)
 
-| Registration Type  |     | Early-Bird |     | Regular |
-| ------------------ | --- | ---------- | --- | ------- |
-| ACM/IEEE Member    |     | $300.00    |     | $400.00 |
-| Non-Member         |     | $400.00    |     | $500.00 |
-| Student Member     |     | $250.00    |     | $350.00 |
-| Student Non-Member |     | $350.00    |     | $450.00 |
+- Hyatt Place Chicago — 28 N. Franklin, Chicago, IL 60606 — (312) 955-0950
+- La Quinta Inn & Suites — One South Franklin, Chicago, IL 60606 — (312) 558-1020
+- JW Marriott Chicago — 151 W. Adams, Chicago, IL 60603 — (312) 660-8200
+- Hilton Garden Inn Chicago Central Loop — 245 S. Franklin, Chicago, IL 60606 — (773) 809-6860
+- W Chicago – City Center — 172 W. Adams, Chicago, IL 60603 — (312) 332-1200
+- Club Quarters, Central Loop — 111 W. Adams, Chicago, IL 60603 — (312) 214-6400
 
-<!-- <br> -->
+_PACT 2026 hotel blocks and booking details will be posted here when available._
 
-### Cancellation policy
+---
 
-If you cancel your attendance on or before September 27, a $100 cancellation fee is due.
-Cancellations after this date do not receive a refund.
+## Conference registration
+
+Registration for PACT 2026 will be announced on the conference website.
+
+If you want to register for both the conference and the workshops/tutorials, first select the conference registration. On the following page it will then be possible to add workshops/tutorials.
+
+### Registration rates
+
+Registration rates and deadlines will be posted here when available.
+
+---
+
+## Travel to Chicago and the Illini Center
+
+### Airports
+
+The two main airports serving Chicago are:
+
+- Chicago O'Hare International Airport (ORD)
+- Chicago Midway International Airport (MDW)
+
+### Public transit from the airports
+
+- **From ORD (O'Hare):** Take the CTA Blue Line toward downtown Chicago.
+- **From MDW (Midway):** Take the CTA Orange Line toward downtown Chicago.
+
+### Getting from downtown transit hubs to the venue
+
+The Illini Center is across from Union Station and a short walk from Ogilvie Transportation Center, making it easy to reach from Amtrak/Metra trains and downtown CTA connections.
+
+### UI Ride (Urbana-Champaign ↔ Chicago)
+
+If you are traveling between Urbana-Champaign and Chicago, UI Ride runs on weekdays and includes a stop at 200 S. Wacker Drive (Illini Center).
