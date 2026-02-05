@@ -1,115 +1,95 @@
 ---
-title:        Organization
-description:  PACT 2024 organization
-id:           organization
-layout:       page_sidebar
+title: Organization
+description: PACT 2026 organization
+id: organization
+layout: page_sidebar
 show_sidebar: true
 ---
 
-# Organization
+## Organization (PACT 2026)
 
-**General Chairs:**<br>
-[Rajiv Gupta](https://www.cs.ucr.edu/~gupta/), University of California, Riverside <br>
-[Nael Abu-Ghazaleh](https://www.cs.ucr.edu/~nael/), University of California, Riverside
+#### General Chairs
 
-**Program Chairs:**<br>
-[Stefanos Kaxiras](https://pages.cs.wisc.edu/~kaxiras/), Uppsala University <br>
-[Alexandra Jimborean](https://webs.um.es/alexandra.jimborean/miwiki/doku.php), University of Murcia
+- [Michela Taufer](https://globalcomputing.group/about.html), University of Tennessee, Knoxville
 
-**Workshop/Tutorial Chair**<br>
-[Hoda Naghibijouybari](https://sites.google.com/a/binghamton.edu/sites/system/errors/WebspaceNotFound?path=%2Fhoda%2F), Binghamton University
+#### Program Chairs
 
-**ACM Student Research Competition Chair:**<br>
-[Samira Ajorpaz](https://mirbaghercom.wordpress.com/), NCSU
+- **Jaejin Lee**, Seoul National University
 
-**Registration Chair:**<br>
-[Changhee Jung](https://www.cs.purdue.edu/homes/chjung/), Purdue University
+#### Workshop/Tutorial Chairs
 
-**Artifact Evaluation Chairs:**<br>
+- **TBD**
 
-[Biswa Panda](https://www.cse.iitb.ac.in/~biswa/), Indian Institute of Technology Bombay <br>
-[Bastian Hagedorn](https://bastianhagedorn.github.io), NVIDIA
+#### ACM Student Research Competition Chair
 
+- **TBD**
 
-**Publications Chair:**<br>
-[Jongouk Choi](https://jongouk-choi.github.io/jongouk/), UCF
+#### Registration Chair
 
-**Publicity Co-Chairs:**<br>
-- Americas: [Khaled Khasawneh](https://sites.google.com/view/knkhasawneh/khaled-n-khasawneh), George Mason University
-- Europe: [Ihsen Alouani](https://sites.google.com/view/ihsen-alouani), Queen's University Belfast
+- **TBD**
 
+#### Finance Chair
 
-**Web Chair:**<br>
-[Daniel Wong](https://www.danielwong.org/), University of California, Riverside
+- **Antonio Tumeo**, Pacific Northwest National Laboratory (PNNL)
 
-**Webmaster:**<br>
-[Pedram Zaree](https://pedramzaree.github.io/), University of California, Riverside
+#### Artifact Evaluation Chairs
 
+- **TBD**
 
+#### Publicity Co-Chairs
+
+- **TBD**
+
+#### Web Chair
+
+- **Kin Hong Ng**, University of Tennessee, Knoxville (UTK)
+
+---
 
 ## Steering Committee
 
-- [Erik      Altman](https://researcher.watson.ibm.com/researcher/view.php?person=us-ealtman), IBM, USA
-- [Călin     Caşcaval](https://conf.researchr.org/profile/conf/calincascaval), Google, New Zealand
-- [Michel    Cosnard](http://www-sop.inria.fr/members/Michel.Cosnard/), INRIA, France
-- [Kemal     Ebcioglu](http://global-supercomputing.com/people/kemal.ebcioglu/) Global Supercomputing Corp., USA
-- [Skevos    Evripidou](https://cy.linkedin.com/in/skevos-evripidou-55a7b2), U. Cyprus, Cyprus
-- [Jean Luc  Gaudiot](http://pascal.eng.uci.edu/people/gaudiot.html), UC Irvine, USA
-- [Andreas   Klöckner](https://andreask.cs.illinois.edu/aboutme), U. of Illinois at Urbana-Champaign, USA
-- [Andreas   Krall](https://informatics.tuwien.ac.at/people/andreas-krall), TU Wien, Austria
-- [Bilha     Mendelson](https://www.linkedin.com/in/bilha-mendelson-36208a1/?originalSubdomain=il), Optitura, Israel
-- [Jose      Moreira](https://researcher.watson.ibm.com/researcher/view.php?person=us-jmoreira), IBM, USA
-- [Yale      Patt](http://users.ece.utexas.edu/~patt/), U. Texas at Austin, USA
-- [Lawrence  Rauchwerger](https://cs.illinois.edu/about/people/all-faculty/rwerger) (Chair), U. Illinois, USA
-- [Valentina Salapura](https://www.linkedin.com/in/valentina-salapura-81924a44), Google, USA
-- [Vivek     Sarkar](https://vsarkar.cc.gatech.edu/), Georgia Tech, USA
-- [Gabby     Silberman](https://es.linkedin.com/in/gabbysilberman), BIST (Barcelona Inst. of Sci. and Tech.), Spain
-- [Mateo     Valero](https://www.bsc.es/mateo-valero), UPC/Barcelona Supercomputing Center, Spain
+- [_Erik Altman_](https://researcher.watson.ibm.com/researcher/view.php?person=us-ealtman)_, IBM, USA_
+- [_Călin Caşcaval_](https://conf.researchr.org/profile/conf/calincascaval)_, Google, New Zealand_
+- [_Michel Cosnard_](http://www-sop.inria.fr/members/Michel.Cosnard/)_, INRIA, France_
+- [_Kemal Ebcioglu_](http://global-supercomputing.com/people/kemal.ebcioglu/) _Global Supercomputing Corp., USA_
+- [_Skevos Evripidou_](https://cy.linkedin.com/in/skevos-evripidou-55a7b2)_, U. Cyprus, Cyprus_
+- [_Jean Luc Gaudiot_](http://pascal.eng.uci.edu/people/gaudiot.html)_, UC Irvine, USA_
+- [_Andreas Klöckner_](https://andreask.cs.illinois.edu/aboutme)_, U. of Illinois at Urbana-Champaign, USA_
+- [_Andreas Krall_](https://informatics.tuwien.ac.at/people/andreas-krall)_, TU Wien, Austria_
+- [_Bilha Mendelson_](https://www.linkedin.com/in/bilha-mendelson-36208a1/?originalSubdomain=il)_, Optitura, Israel_
+- [_Jose Moreira_](https://researcher.watson.ibm.com/researcher/view.php?person=us-jmoreira)_, IBM, USA_
+- [_Yale Patt_](http://users.ece.utexas.edu/~patt/)_, U. Texas at Austin, USA_
+- [_Lawrence Rauchwerger_](https://cs.illinois.edu/about/people/all-faculty/rwerger) _(Chair), U. Illinois, USA_
+- [_Valentina Salapura_](https://www.linkedin.com/in/valentina-salapura-81924a44)_, Google, USA_
+- [_Vivek Sarkar_](https://vsarkar.cc.gatech.edu/)_, Georgia Tech, USA_
+- [_Gabby Silberman_](https://es.linkedin.com/in/gabbysilberman)_, BIST (Barcelona Inst. of Sci. and Tech.), Spain_
+- [_Mateo Valero_](https://www.bsc.es/mateo-valero)_, UPC/Barcelona Supercomputing Center, Spain_
+
+---
 
 ## Technical Program Committee
-- Ajeya Naithani, Ghent University
-- Andre Seznec, Inria
-- Christina Giannoula, University of Toronto
-- Christos Sakalis, SambaNova Systems
-- Daniel Sorin, Duke University
-- Davide Bertozzi, University of Manchester
-- Dimitris Gizopoulos, University of Athens
-- Esin Tureci, Princeton University
-- Eun Jung Park (EJ), Qualcomm
-- Fernando Magno Quintao Pereira, Federal University of Minas Gerais
-- Gabriel Rodríguez, Universidade da Coruña
-- George Tzimpragos, University of Michigan
-- Gianna Paulin, ETH
-- H Peter Hofstee, IBM Systems
-- J Nelson Amaral, University of Alberta
-- John Kim, KAIST
-- Julio Sahuquillo, Universitat Politècnica de València
-- Lieven Eeckhout, Ghent University
-- Louis-Noel Pouchet, Colorado State University
-- Magnus Själander, Norwegian University of Science and Technology
-- Mahmut Taylan Kandemir, Pennsylvania State University
-- Michael O'Boyle, University of Edinburgh
-- Nilay Vaish, Google
-- Pavlos Petoumenos, University of Manchester
-- Pedro Diniz, University of Porto
-- Pedro Petersen Moura Trancoso, Chalmers University of Technology
-- Pierre Michaud, Inria
-- Ravishankar Iyer, Intel Labs
-- Roger Moussalli, Two Sigma
-- Sam Ainsworth, University of Edinburgh
-- Steve Blackburn, Google and Australian National University
-- Swamit Tannu, University of Wisconsin, Madison
-- Thomas Chau, Neubla
-- Timothy M Jones, University of Cambridge
-- Tobias Grosser, University of Cambridge
-- Trevor E. Carlson, National University of Singapore
-- Vijay Nagarajan, University of Utah
-- Yaman Umuroglu, AMD
+
+**TBD**
+
+---
 
 ## External Review Committee
-- Chang Hyun Park, Uppsala University
-- Gokul Subramanian Ravi, University of Michigan
-- Jakub Szefer, Yale University
-- Juan Manuel Cebrian, University of Murcia
-- Manil Dev Gomony, Eindhoven University of Technology
-- Peter Munch, Uppsala
+
+**TBD**
+
+---
+
+## Important Dates and Deadlines (PACT 2026)
+
+Dates will be announced.
+
+- **Conference:** October 19-22
+- **Conference Registration:** TBD
+- **Conference Papers:** TBD
+- **ACM SRC:** TBD
+
+---
+
+## Sponsors
+
+To be announced.
