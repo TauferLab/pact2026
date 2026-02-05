@@ -1,12 +1,12 @@
 ---
-title:        Sponsoring
-description:  PACT 2024 sponsoring
-id:           sponsoring
-layout:       page_sidebar
+title: Sponsoring
+description: PACT 2026 sponsoring
+id: sponsoring
+layout: page_sidebar
 show_sidebar: true
 ---
 
-# Sponsorship Packages for PACT24
+# Sponsorship Packages for PACT'26
 
 ## Platinum
 
