@@ -4,27 +4,22 @@
 
 <!doctype html>
 <html lang="en">
+  {% include head.html %}
 
-{% include head.html %}
-
-<body>
+  <body>
     <div class="container">
-        {% include header.html active='index' %}
+      {% include header.html active='index' %}
 
-        <div class="row mb-3">
-            <!-- main page content -->
-            <div class="col-md-8">
-                {{ content }}
-            </div>
+      <div class="row mb-3">
+        <!-- main page content -->
+        <div class="col-md-8">{{ content }}</div>
 
-            <!-- sidebar -->
-            <div class="col-md-4">
-                {% include sidebar.html %}
-            </div>
-        </div>
+        <!-- sidebar -->
+        <div class="col-md-4">{% include sidebar.html %}</div>
+      </div>
 
-        {% include footer.html %}
-    </div> <!-- main container -->
-</body>
-
+      {% include footer.html %}
+    </div>
+    <!-- main container -->
+  </body>
 </html>
