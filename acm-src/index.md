@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Student Research Competition
+id: acm-src
 ---
 
 ## Student Research Competition (SRC) — PACT 2026
