@@ -31,24 +31,40 @@ PACT seeks submissions in two categories:
 PACT welcomes submissions on topics including, but not limited to:
 
 - Parallel architectures, including accelerators for AI and other domains
+  - Conventional parallel architectures (e.g., multicore, multithreaded, superscalar, and VLIW architectures) and heterogeneous architectures
+  - AI accelerators: design of specialized hardware for LLM inference and training (e.g., TPUs, NPUs, and custom silicon)
+  - In-memory & near-data processing: architectures to mitigate the "memory wall" in massive AI model parameters
+  - Heterogeneous systems: integration of CPUs, GPUs, and FPGAs for distributed AI workloads
+  - Scalable AI Infrastructure: Architecture support for multi-node, multi-GPU clusters and high-speed interconnects for LLM scaling
 - Compilers and tools for parallel architectures
-- Applications and experimental studies of parallel processing
+  - Conventional compilers and tools for parallel and heterogeneous architectures
+  - Dynamic translation and optimization
+  - ML compilers: automated optimization, kernel fusion, and code generation for ML frameworks
+  - LLMs for compilation: using AI to automate parallelization, loop transformations, and autotuning
+  - Dynamic optimization: runtime systems for adaptive AI model execution and sparse computation
+  - Quantization & compression: compiler-assisted techniques for model pruning and low-precision arithmetic
+- Middleware and runtime system support for parallel computing
+  - Resource management & scheduling
+  - Communication & synchronization
+  - Energy-aware middleware
+  - Quantum-HPC interfacing
+  - Serverless parallel computing (e.g., AWS Lambda)
+  - AI & LLM-specific runtime support, including distributed inference & training, KV cache management, and computation-communication overlap
+- I/O issues in parallel computing and their application impact
+  - Data loading & preprocessing pipelines
+  - Metadata scalability
+  - Memory-storage convergence
+  - Large-scale data processing for AI models and applications
+- Hardware and software resilience & fault tolerance
+  - Checkpointing & restart
+  - Silent data corruption detection
+  - Self-healing runtimes
+- Applications and experimental studies of parallel processing, especially using AI models
+- Parallel programming languages, algorithms, and applications
 - Computational models for concurrent execution
-- Multicore, multithreaded, superscalar, and VLIW architectures
-- Compiler and hardware support for reducing memory latencies
+- Compiler and hardware support for parallel applications
 - Support for correctness in hardware and software
 - Reconfigurable parallel computing
-- Dynamic translation and optimization
-- I/O issues in parallel computing and their application impact
-- Parallel programming languages, algorithms, and applications
-- Middleware and runtime system support for parallel computing
-- Application-specific parallel systems
-- Distributed computing architectures and systems
-- Heterogeneous systems leveraging various accelerators
-- In-core and in-chip accelerators and their optimization
-- Applications of machine learning to parallel computing
-- Large-scale data processing, including in-memory computing accelerators
-- Insights from modern parallel applications for architecture and compiler design
 
 ---
 
@@ -121,12 +137,12 @@ We encourage authors to use open-source frameworks such as [Docker](https://www.
 
 ### **Important Dates**
 
-- **Abstract Submission Deadline:** TBD
-- **Paper Submission Deadline:** TBD
-- **Rebuttal Period:** TBD
-- **Author Notification:** TBD
-- **Artifact Submission:** TBD
-- **Camera-Ready Deadline:** TBD
+- **Abstract Submission Deadline:** April 17, 2026
+- **Paper Submission Deadline:** April 24, 2026
+- **Rebuttal Period:** June 14-18, 2026
+- **Author Notification:** August 5, 2026
+- **Artifact Submission:** August 10, 2026
+- **Camera-Ready Deadline:** October 2, 2026
 
 All deadlines are **firm at midnight anywhere on Earth (AoE)**.
 
